@@ -10,4 +10,5 @@ https://github.com/artemponomarevjetski/artemp-portfolio-complete-ml-ops-pipelin
 TensorFlow Serving models are consumed by clients. Client code needs to make a connection to the server and communicate using protocol buffers. Google's gRPC remote procedure call library provides the ability to connect and make calls to the server. After establishing a connection, you make a call by preparing the input for model prediction and serializing it in the request. The serialized prediction output is returned by the server.
 
 2. Rekognition. Text analysis.
-3. Several items on Azure.
+
+3. A bunch of items on Azure. I'll write on these items later.
