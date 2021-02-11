@@ -11,4 +11,4 @@ TensorFlow Serving models are consumed by clients. Client code needs to make a c
 
 2. Rekognition. Text analysis.
 
-3. A bunch of items on Azure. I'll write on these items later.
+3. A bunch of items on Azure and AWS. For description of these exercises, see my numerous posts on LinkedIn: https://www.linkedin.com/in/artemponomarevpolycephalicturingmachinethatneverhalts/
