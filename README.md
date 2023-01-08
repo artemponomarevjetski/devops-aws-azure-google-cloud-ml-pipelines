@@ -1,4 +1,4 @@
-# artemp-portfolio-complete-ml-ops-pipeline
+# devops-aws-azure-google-cloud-ml-pipelines
 
 1. Create gRPC app using
 TensorFlow Machine Learning on the Amazon Deep Learning AMI
