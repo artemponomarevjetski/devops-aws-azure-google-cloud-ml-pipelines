@@ -14,6 +14,6 @@ This section focuses on Amazon Rekognition, a deep learning-based service for im
 
 This section includes a collection of resources, code samples, and configurations related to Azure and AWS (Amazon Web Services). It covers various aspects of these cloud platforms, providing insights and practical information for working with them.
 
-## "For description of these exercises, see my numerous posts on LinkedIn: [LinkedIn profile URL]":
+## "For description of these exercises, see my numerous posts on LinkedIn: [LinkedIn profile URL](https://www.linkedin.com/in/artemponomarevpolycephalicturingmachinethatneverhalts/)":
 
 The author of this repository has shared additional exercises, details, and explanations related to the topics covered in the repository on their LinkedIn profile. You can find more information by visiting the author's LinkedIn profile: [LinkedIn profile URL](https://www.linkedin.com/in/artemponomarevpolycephalicturingmachinethatneverhalts/)
