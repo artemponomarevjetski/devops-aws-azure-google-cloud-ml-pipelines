@@ -1,4 +1,4 @@
-# Enhanced README for DevOps AWS Azure Google Cloud ML Pipelines
+# DevOps AWS Azure Google Cloud ML Pipelines
 
 Welcome to my **DevOps AWS Azure Google Cloud ML Pipelines** repository. This project is a comprehensive compilation of resources, code, and guides dedicated to integrating DevOps practices with cloud services and machine learning technologies. My aim is to cover a broad spectrum of topics and technologies that are crucial for today's developers, data scientists, and IT professionals who navigate the realms of AWS, Azure, Google Cloud, and machine learning pipelines.
 
@@ -29,3 +29,4 @@ For a deeper dive into the topics discussed here, check out my posts on LinkedIn
 We encourage the community to contribute, ask questions, and provide feedback. Whether you're here to learn, share knowledge, or collaborate on projects, your input is valuable to the evolution of this repository. If you have suggestions or resources you'd like to add, please feel free to reach out or submit a pull request.
 
 Thank you for visiting our **DevOps AWS Azure Google Cloud ML Pipelines** repository. Together, let's build an invaluable resource for anyone looking to advance their skills in these cutting-edge technologies.
+
