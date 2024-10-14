@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build artifacts
+build/
+dist/
+
